@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **mobile application development**
 
-- 🌱 I’m currently learning **on data science**
-
 - 👯 I’m looking to collaborate on **any software development project**
 
 - 💬 Ask me about **Kotlin, Jetpack Compose, C#, Python**
