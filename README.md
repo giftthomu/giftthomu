@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **any software development project**
 
-- 💬 Ask me about **Kotlin, Jetpack Compose, C#, Python**
+- 💬 Ask me about **Kotlin, Jetpack Compose, C#**
 
 - 📫 How to reach me **giftthomu@gmail.com**
 
