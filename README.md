@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gift Thomu</h1>
-<h3 align="center">Software Developer | Future Solutions Architect | Building Digital Solutions for Malawi</h3>
+<h3 align="center">Software Developer | Future Solutions Architect | Building Scalable Digital Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=giftthomu&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="giftthomu" />
