@@ -38,7 +38,7 @@
 
 ### Backend Development
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,spring" />
+<img src="https://skillicons.dev/icons?i=dotnet,cs,spring" />
 </p>
 
 ### Mobile Development
